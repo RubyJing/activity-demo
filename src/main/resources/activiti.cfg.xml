@@ -13,7 +13,7 @@
         <!-- 数据库策略 -->
         <property name="databaseSchemaUpdate" value="drop-create"/>
         <!-- activiti的定时任务关闭 -->
-        <property name="jobExecutorActivate" value="false"/>
+<!--        <property name="jobExecutorActivate" value="false"/>-->
     </bean>
 
     <!-- 流程引擎 -->
