@@ -1,6 +1,5 @@
 import org.activiti.engine.ProcessEngine;
 import org.activiti.engine.ProcessEngineConfiguration;
-import org.activiti.engine.ProcessEngines;
 
 /**
  * 创建activity的数据库表
